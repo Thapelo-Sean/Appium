@@ -9,7 +9,7 @@ import java.net.URISyntaxException;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class Testing {
+public class Testing_Macrodroid {
 
     public static void main(String [] args) throws MalformedURLException, URISyntaxException {
 
