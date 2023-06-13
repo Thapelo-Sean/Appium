@@ -63,7 +63,7 @@ public class Testing {
             driver.findElement(By.id("com.arlosoft.macrodroid:id/actionBack")).click();
 
         } catch (Exception e) {
-            new RuntimeException(e);
+            e.printStackTrace();
         }
 
         System.out.print("Execution complete!!!");
